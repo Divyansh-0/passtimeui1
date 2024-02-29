@@ -3,8 +3,8 @@ import React from "react";
 const About = () => {
   return (
     <div className="container mx-auto md:m-20 m-5">
-      <div className="text-2xl mx-auto">
-        What is <span className="text-[#48cae4]">DevCorp</span> ?
+      <div className="text-3xl md:text-5xl font-semibold mx-auto">
+        What is <span className="text-[#48cae4] ">DevCorp</span> ?
       </div>
       <div className="flex flex-col md:flex-row md:gap-10 gap-2">
         <div className="text-xl flex-1 mt-10">

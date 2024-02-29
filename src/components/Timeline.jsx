@@ -3,7 +3,7 @@ import React from "react";
 const Timeline = () => {
   return (
     <div className="flex flex-col items-centre justify-center mx-auto space-x-9 md:space-x-24">
-      <h1 className="mx-auto text-2xl mb-8">
+      <h1 className="mx-auto text-3xl md:text-5xl font-semibold mb-10">
         What is Our <span className="text-[#48cae4]">History?</span>{" "}
       </h1>
       <div className="flex flex-col text-centre items-centre space-x-2 justify-center">
